@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View ,FlatList} from 'react-native';
 import axios from 'axios';
-
+//cai dmm
 
 class FlatListItem extends Component{
   render(){
